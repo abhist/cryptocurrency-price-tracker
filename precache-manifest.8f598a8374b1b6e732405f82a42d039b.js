@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8c18071a2f503daee46193900220445",
+    "revision": "6fee2d5fa00cae7eb3a3d4584274fd81",
     "url": "/cryptocurrency-price-tracker/index.html"
   },
   {
