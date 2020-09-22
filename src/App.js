@@ -32,7 +32,7 @@ function App() {
   return (
     <>
   <div className='signature'>
-    MADE WITH <span style={{color: 'red'}}><FontAwesomeIcon icon={faHeart} className='icon-heart'/> </span> BY ABHIST
+    MADE WITH <FontAwesomeIcon icon={faHeart} color="red"/> BY ABHIST
   </div>    
     <div className='coin-app'>
       <div className='coin-search'>
