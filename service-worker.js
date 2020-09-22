@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cryptocurrency-price-tracker/precache-manifest.911cf1f2985bbd3b9a5000bc4443405b.js"
+  "/cryptocurrency-price-tracker/precache-manifest.47efd42e2502231468b3fb5c6afe0ca5.js"
 );
 
 self.addEventListener('message', (event) => {
