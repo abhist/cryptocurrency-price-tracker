@@ -32,7 +32,7 @@ function App() {
   return (
     <>
   <div className='signature'>
-    MADE WITH <FontAwesomeIcon icon={faHeart} className='icon-heart'/> BY ABHIST
+    MADE WITH <span style={{color: 'red'}}><FontAwesomeIcon icon={faHeart} className='icon-heart'/> </span> BY ABHIST
   </div>    
     <div className='coin-app'>
       <div className='coin-search'>
@@ -45,6 +45,14 @@ function App() {
             placeholder='Search'
           />
         </form>
+      </div>
+      <div className='header'>
+      <h2 style={{marginLeft: '40px'}}>Coin</h2>
+      <h2 style={{marginLeft: '250px'}}>Price</h2>
+      <h2 style={{marginLeft: '230px'}}>24h Volume</h2>
+      <h2 style={{marginLeft: '240px'}}>24h</h2>
+      <h2 style={{marginLeft: '320px'}}>Mkt Cap</h2>
+      
       </div>
       {filteredCoins.map(coin => {
         return (

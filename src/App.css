@@ -41,15 +41,15 @@
 
 .coin-input {
   padding-left: 16px;
-  width: 300px;
+  width: 450px;
   height: 50px;
   border-radius: 4px;
   border: none;
   background-image: linear-gradient(
     -225deg,
-    #33a6a7 0%,
-    #8b75a7 48%,
-    #9d2bd8 100%
+    #403c3c 0%,
+    #404646 48%,
+    #272727 100%
   );
 
   color: #e2e2e2;
@@ -57,4 +57,11 @@
 
 .coin-input::placeholder {
   color: #e2e2e2;
+}
+
+.header {
+  display: flex;
+  width: 1500px;
+  border-bottom: 3px solid #040404;
+  padding-bottom: 20px;
 }
