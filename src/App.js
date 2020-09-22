@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 import Coin from './Coin';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHeart } from '@fortawesome/free-solid-svg-icons'
 
 function App() {
   const [coins, setCoins] = useState([]);
@@ -28,7 +30,10 @@ function App() {
   );
 
   return (
-    
+    <>
+  <div className='signature'>
+    MADE WITH <FontAwesomeIcon icon={faHeart} style={{color: 'red'}}/> BY ABHIST
+  </div>    
     <div className='coin-app'>
       <div className='coin-search'>
         <h1 className='coin-text'>Search a currency</h1>
@@ -56,6 +61,7 @@ function App() {
         );
       })}
     </div>
+    </>
   );
 }
 
