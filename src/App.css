@@ -22,6 +22,10 @@
   color: #1a1717;
 }
 
+
+.icon-heart {
+  color: red;
+}
 .coin-search {
   margin-bottom: 64px;
   display: flex;
