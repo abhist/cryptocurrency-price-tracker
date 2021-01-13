@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cryptocurrency-price-tracker/static/css/main.cadde19f.chunk.css",
-    "main.js": "/cryptocurrency-price-tracker/static/js/main.11413cdf.chunk.js",
-    "main.js.map": "/cryptocurrency-price-tracker/static/js/main.11413cdf.chunk.js.map",
+    "main.js": "/cryptocurrency-price-tracker/static/js/main.6c4e83ab.chunk.js",
+    "main.js.map": "/cryptocurrency-price-tracker/static/js/main.6c4e83ab.chunk.js.map",
     "runtime-main.js": "/cryptocurrency-price-tracker/static/js/runtime-main.7f266eb6.js",
     "runtime-main.js.map": "/cryptocurrency-price-tracker/static/js/runtime-main.7f266eb6.js.map",
     "static/js/2.8d7930c3.chunk.js": "/cryptocurrency-price-tracker/static/js/2.8d7930c3.chunk.js",
     "static/js/2.8d7930c3.chunk.js.map": "/cryptocurrency-price-tracker/static/js/2.8d7930c3.chunk.js.map",
     "index.html": "/cryptocurrency-price-tracker/index.html",
-    "precache-manifest.06e6f6b1d1a3277c62a1e3acd8ade163.js": "/cryptocurrency-price-tracker/precache-manifest.06e6f6b1d1a3277c62a1e3acd8ade163.js",
+    "precache-manifest.fefd9d17ba54c7c381ce569fc9f70ff1.js": "/cryptocurrency-price-tracker/precache-manifest.fefd9d17ba54c7c381ce569fc9f70ff1.js",
     "service-worker.js": "/cryptocurrency-price-tracker/service-worker.js",
     "static/css/main.cadde19f.chunk.css.map": "/cryptocurrency-price-tracker/static/css/main.cadde19f.chunk.css.map",
     "static/js/2.8d7930c3.chunk.js.LICENSE.txt": "/cryptocurrency-price-tracker/static/js/2.8d7930c3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7f266eb6.js",
     "static/js/2.8d7930c3.chunk.js",
     "static/css/main.cadde19f.chunk.css",
-    "static/js/main.11413cdf.chunk.js"
+    "static/js/main.6c4e83ab.chunk.js"
   ]
 }
